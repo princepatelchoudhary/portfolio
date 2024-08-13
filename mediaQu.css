@@ -1,0 +1,30 @@
+@media screen and (max-width: 800px) {
+    .desktop {
+        display: none;
+    }
+    #hamburger-nav {
+        display: flex;
+    }
+    header{
+        padding:5px;
+    }
+    .heroSection{
+        flex-direction: column
+    }
+    .skillContainer{
+        flex-direction: column;
+        padding: 1rem;
+    }
+    .leftSkillContainer{
+        width: 100%;
+    }
+    .rightSkillContainer{
+        width: 100%;
+    }
+    .skillFadedText{
+        font-size: 8em;
+    }
+    .footerContainer{
+        flex-direction: column;
+    }
+}
