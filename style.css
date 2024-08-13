@@ -278,17 +278,17 @@ nav ul li a:hover {
 }
 
 #project1 {
-  background-image: url(./Images/projects/weatherApp.png);
+  background-image: url(./Images/Projects/weatherApp.png);
   right: 5%;
 }
 
 #project2 {
-  background-image: url(./Images/projects/passwordGenerater.png);
+  background-image: url(./Images/Projects/passwordGenerater.png);
   left: 5%;
 }
 
 #project3 {
-  background-image: url(./Images/projects/tikt.jpg);
+  background-image: url(./Images/Projects/tikt.jpg);
   right: 5%;
 }
 
